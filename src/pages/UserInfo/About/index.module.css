@@ -1,0 +1,12 @@
+.about {
+  padding: 15px;
+}
+
+.about .title {
+  color: #f30;
+}
+
+.about .text {
+  padding-top: 10px;
+  font-size: 14px;
+}

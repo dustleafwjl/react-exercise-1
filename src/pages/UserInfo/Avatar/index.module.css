@@ -1,0 +1,21 @@
+.avatar {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 60px 10px 10px;
+  border-bottom: 2px solid #eee;
+}
+
+.avatar img {
+  position: absolute;
+  top: -50px;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+.avatar h1 {
+  height: 40px;
+  line-height: 40px;
+}
